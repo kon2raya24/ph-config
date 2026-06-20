@@ -13,5 +13,9 @@
   "scripts": {
     "lint": "eslint src/",
     "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kon2raya24/ph-config.git"
   }
 }
