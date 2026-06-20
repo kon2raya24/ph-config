@@ -29,3 +29,10 @@ All exported functions include TypeScript types.
 import { } from 'ph-config';
 // See API section for available functions
 ```
+
+
+## Installation
+
+```bash
+npm install ph-config
+```
