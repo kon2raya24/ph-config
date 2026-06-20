@@ -12,7 +12,8 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint src/",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
