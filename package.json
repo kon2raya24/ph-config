@@ -11,6 +11,7 @@
   "author": "kon2raya",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "test": "vitest run"
   }
 }
